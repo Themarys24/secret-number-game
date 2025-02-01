@@ -13,7 +13,7 @@ function displayTextOnScreen(tag, text){
 
 function displayInitialMessage(){
     displayTextOnScreen('h1', 'Secret Number Game');
-    displayTextOnScreen('p', 'Choose a number from 1 to 10');
+    displayTextOnScreen('p', 'Choose a number from 1 to 100');
 }
 
 displayInitialMessage();
